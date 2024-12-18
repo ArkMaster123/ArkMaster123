@@ -16,11 +16,11 @@ Creating intelligent conversations through code. AI/ML Engineer specializing in 
 - **Vector DBs**: Pinecone, Weaviate, Milvus, ChromaDB
 
 ## 🚀 Notable Projects
-### ChatMind Pro
-Advanced conversational AI platform with multi-model support and dynamic context handling.
+### Gary Hormozi
+Advanced conversational AI platform with web connected AI Chatbot, RAG.
 
 ### DocSum Engine
-Enterprise-grade document summarization pipeline processing 1M+ documents monthly.
+Enterprise-grade document summarisation pipeline processing 3k+ page documents .
 
 ### LLM Training Pipeline
 Distributed training infrastructure for fine-tuning language models at scale.
@@ -32,9 +32,8 @@ Distributed training infrastructure for fine-tuning language models at scale.
 - 🌟 Multiple open-source contributions
 
 ## 🔗 Professional Network
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Research Papers](your-papers-link)
-- [Tech Blog](your-blog-link)
+- [LinkedIn](https://www.linkedin.com/in/noahsantoni/)
+- [Tech Blog](https://www.whataidea.com/blog)
 
 ## 📊 GitHub Analytics
 ![ArkMaster123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkMaster123&show_icons=true&theme=synthwave)
