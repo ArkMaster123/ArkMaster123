@@ -33,7 +33,8 @@ Distributed training infrastructure for fine-tuning language models at scale.
 
 ## 🔗 Professional Network
 - [LinkedIn](https://www.linkedin.com/in/noahsantoni/)
-- [Tech Blog](https://www.whataidea.com/blog)
+- [Youtube](https://www.youtube.com/@NoahLab-n7e)
+- [Agency](https://www.bornandbrand.com)
 
 ## 📊 GitHub Analytics
 ![ArkMaster123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkMaster123&show_icons=true&theme=synthwave)
