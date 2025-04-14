@@ -19,7 +19,7 @@ Creating intelligent conversations through code. AI/ML Engineer specializing in 
 ### Gary Hormozi
 Advanced conversational AI platform with web connected AI Chatbot, RAG.
 
-### DocSum Engine
+### DocSight Engine
 Enterprise-grade document summarisation pipeline processing 3k+ page documents .
 
 ### LLM Training Pipeline
