@@ -56,10 +56,6 @@ I care about the human part of AI as much as the technical part. If the tool doe
 - [LinkedIn](https://www.linkedin.com/in/noahsantoni/)
 - [YouTube](https://www.youtube.com/@NoahLab-n7e)
 
-## GitHub
-
-![ArkMaster123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkMaster123&show_icons=true&theme=synthwave)
-
 ---
 
 Building AI products that understand the work before they automate it.
