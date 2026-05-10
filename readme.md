@@ -1,10 +1,22 @@
 # Noah Santoni
 
-I build AI systems by starting with the person on the other side of the screen.
+I build AI systems that understand people before they automate the work.
 
-Before the model, the framework, or the stack, I want to understand what someone is trying to do, where the work gets painful, and what would actually make their day easier. That is where the best products come from.
+I have cloned a doctor's brain into an AI model, built voice systems that replaced ElevenLabs with open-source tooling before that became the obvious move in 2025, and shipped AI products across chat, voice, documents, and workflow automation.
 
-Most of my work sits at the edge of AI, automation, voice, and document intelligence. I take messy ideas, half-working prototypes, and manual workflows, then turn them into tools people can use in the real world.
+The pattern is always the same: understand how a person thinks, where the work slows down, then build the system around that. Not around a demo. Around the real job.
+
+Most of my work sits at the edge of AI agents, RAG, voice, and document intelligence. I take messy ideas, half-working prototypes, and manual workflows, then turn them into tools people can use in the real world.
+
+## High-Signal Work
+
+- Cloned a doctor's decision-making style into an AI model for healthcare-style reasoning and support workflows
+- Replaced ElevenLabs-style voice infrastructure with open-source speech tooling before open-source voice became mainstream in 2025
+- Built and shipped 20+ AI implementations across chat, voice, document processing, and automation
+- Worked on systems handling 3,000+ page documents
+- Built web-connected AI assistants with RAG and production integrations
+- Turned slow manual document workflows into repeatable pipelines
+- Contributed across 100+ repositories while building in public and for clients
 
 ## What I Build
 
@@ -14,15 +26,13 @@ Most of my work sits at the edge of AI, automation, voice, and document intellig
 - Voice tools, Telegram bots, Discord bots, and workflow automation
 - Production backends with Python, FastAPI, Node.js, Docker, and cloud infrastructure
 
-## Proof Of Work
-
-- Built and shipped 20+ AI implementations across chat, voice, document processing, and automation
-- Worked on systems handling 3,000+ page documents
-- Built web-connected AI assistants with RAG and production integrations
-- Reduced slow manual document workflows by turning them into repeatable pipelines
-- Contributed across 100+ repositories while building in public and for clients
-
 ## Projects
+
+### Doctor-Brain AI Model
+An AI system built to mirror a doctor's reasoning style, decision patterns, and knowledge workflow so users could get faster, more context-aware support.
+
+### Open-Source Voice Stack
+A Kokoro-powered voice system built as an alternative to closed voice APIs. The goal was simple: own the voice layer, reduce dependency, and move faster.
 
 ### Gary Hormozi
 A web-connected conversational AI platform built around RAG, sales workflows, and practical business use cases.
@@ -33,12 +43,10 @@ A document summarisation and intelligence pipeline for processing large files wi
 ### LLM Training Pipeline
 Infrastructure for fine-tuning and testing language model workflows at scale.
 
-### Voice And Bot Systems
-Kokoro-powered voice tools, Discord bots, Telegram integrations, and automation products for client workflows.
-
 ## Stack
 
 - **AI:** LangChain, LlamaIndex, OpenAI, Anthropic, Hugging Face, Groq
+- **Voice:** Kokoro, TTS pipelines, open-source speech models
 - **Languages:** Python, JavaScript, TypeScript
 - **Backend:** FastAPI, Flask, Node.js
 - **Frontend:** React, Next.js
